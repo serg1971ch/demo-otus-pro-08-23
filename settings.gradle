@@ -1,0 +1,10 @@
+rootProject.name = 'otus-java-pro-2023-08'
+include 'lesson-01-intro'
+include 'lesson-03-generics'
+include 'lesson-06-annotations'
+include 'lesson-07-functional-programming'
+include 'lesson-13-behavioural-patterns'
+include 'lesson-14-structural-patterns'
+include 'lesson-21-references'
+include 'lesson-22-nosql'
+
